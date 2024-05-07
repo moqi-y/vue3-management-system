@@ -19,5 +19,5 @@
 │    └──utils           # 工具函数
 │    │   ├── __init__.py
 │    │   └── status_code.py # 状态码
-
+|——web                      # 前端Web页面文件
 ```
